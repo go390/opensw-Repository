@@ -1,0 +1,6 @@
+name
+stdent id
+study
+grade
+courses
+
