@@ -4,5 +4,3 @@ study
 grade
 courses
 today's good phrase
-
-
